@@ -5,3 +5,4 @@ Welcome to git
 I hope you are having fun
 
 Missing java maybe
+There are a lot of things to study and I am looking forward to it
